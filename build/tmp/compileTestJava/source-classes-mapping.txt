@@ -1,0 +1,4 @@
+in/practice/automationtesting/stepdefinitions/BuyStepDefinition.java
+ in.practice.automationtesting.stepdefinitions.BuyStepDefinition
+in/practice/automationtesting/runners/BuyRunner.java
+ in.practice.automationtesting.runners.BuyRunner

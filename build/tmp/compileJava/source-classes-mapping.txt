@@ -1,0 +1,30 @@
+in/practice/automationtesting/userinterfaces/BookPage.java
+ in.practice.automationtesting.userinterfaces.BookPage
+in/practice/automationtesting/questions/QuestionBook.java
+ in.practice.automationtesting.questions.QuestionBook
+in/practice/automationtesting/questions/Validate.java
+ in.practice.automationtesting.questions.Validate
+in/practice/automationtesting/userinterfaces/BuyAccept.java
+ in.practice.automationtesting.userinterfaces.BuyAccept
+in/practice/automationtesting/userinterfaces/BillingDetailsPage.java
+ in.practice.automationtesting.userinterfaces.BillingDetailsPage
+in/practice/automationtesting/tasks/BillingBuy.java
+ in.practice.automationtesting.tasks.BillingBuy
+in/practice/automationtesting/interactions/AddDateBilling.java
+ in.practice.automationtesting.interactions.AddDateBilling
+in/practice/automationtesting/userinterfaces/BuyHomePage.java
+ in.practice.automationtesting.userinterfaces.BuyHomePage
+in/practice/automationtesting/interactions/SelectAmount.java
+ in.practice.automationtesting.interactions.SelectAmount
+in/practice/automationtesting/interactions/SelectBook.java
+ in.practice.automationtesting.interactions.SelectBook
+in/practice/automationtesting/userinterfaces/BasketTotalPage.java
+ in.practice.automationtesting.userinterfaces.BasketTotalPage
+in/practice/automationtesting/models/DataBuyBook.java
+ in.practice.automationtesting.models.DataBuyBook
+in/practice/automationtesting/tasks/BasketTotal.java
+ in.practice.automationtesting.tasks.BasketTotal
+in/practice/automationtesting/tasks/BookToBuy.java
+ in.practice.automationtesting.tasks.BookToBuy
+in/practice/automationtesting/tasks/BookAmount.java
+ in.practice.automationtesting.tasks.BookAmount
